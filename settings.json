@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to YAY",
         "I like to play Minecraft!"
       ]
     },
@@ -63,22 +63,9 @@
     "beds": false,
     "chat": true,
     "console-commands": true
+
   },
-  "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
-  },
-  "beds": {
-    "pick-up-day": false,
-    "place-night": false
-  },
-  "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
+ 
     }
   },
   "chat": {
